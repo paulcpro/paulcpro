@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there, I'm Paul - aka Ring0 👋
 
-<!--
-**paulcpro/paulcpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Junior Developer
 
-Here are some ideas to get you started:
+- 🔭 I just finished my master degree
+- 🌱 I’m currently learning Unity and games development
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Increase my skills in development
+- ⚡ Fun fact: I love to play basketball and learn things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="paulcpro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio" width="26px" src="./icon/visualstudio.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icon/visualstudiocode.png" />
+<img align="left" alt="Qt" width="26px" src="./icon/qt.png" />
+<img align="left" alt="Unity" width="26px" src="./icon/unity.png" />
+<img align="left" alt="UnrealEngine" width="26px" src="./icon/unrealengine.png" />
+<img align="left" alt="C#" width="26px" src="./icon/csharp.png" />
+<img align="left" alt="C++" width="26px" src="./icon/c++.png" />
+<img align="left" alt="HTML5" width="26px" src="./icon/html.png" />
+<img align="left" alt="CSS3" width="26px" src="./icon/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="./icon/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="./icon/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="./icon/database.png" />
+<img align="left" alt="MySQL" width="26px" src="./icon/mysql.png" />
+<img align="left" alt="Git" width="26px" src="./icon/git.png" />
+<img align="left" alt="GitHub" width="26px" src="./icon/github.png" />
+<img align="left" alt="Terminal" width="26px" src="./icon/terminal.png" />
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/paul-creuzeau-a1b9b7178/
