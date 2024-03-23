@@ -34,5 +34,3 @@
 <img align="left" alt="Terminal" width="26px" src="./icon/terminal.png" />
 
 <br />
-
-[linkedin]: https://www.linkedin.com/in/paul-creuzeau-a1b9b7178/
