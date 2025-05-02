@@ -1,12 +1,11 @@
 ### Hi there, I'm Paul - aka Ring0 👋
 
-## I'm a Junior Developer
+## I'm a Developer
 
-- 🔭 I just finished my master degree
-- 🌱 I’m currently learning Unity and games development
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Increase my skills in development
-- ⚡ Fun fact: I love to play basketball and learn things
+- 🔭 Developper since 5 years
+- 🌱 I’m currently learning Unity and AI
+- 🥅 2025 Goals: Diversify my skills & knowledges about AI and development
+- ⚡ I'm doing other things like drones and electronics
 
 <br />
 
